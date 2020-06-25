@@ -30,6 +30,6 @@ def send_receipt( message , customer):
 if __name__ == '__main__':
 
     test_message = "your order is as follows: bla bla"
-    test_number = '254728258626'
+    test_number = ''
     
     send_receipt(test_message,test_number)
