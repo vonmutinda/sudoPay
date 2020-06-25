@@ -24,12 +24,12 @@ def generate_code(user_data):
 
 if __name__ == '__main__':
 
-    name = 'von MUKANYE'
+    name = 'John Doe'
 
     # The data that you want to store
     user_data = {
         'name': name,
-        'mobile': 729309658,
+        'mobile': ,
         'country': 'KE',
         'image': ''
     }
